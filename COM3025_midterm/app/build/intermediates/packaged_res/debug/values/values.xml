@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">COM3025_midterm</string>
+    <style name="Base.Theme.COM3025_midterm" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.COM3025_midterm" parent="Base.Theme.COM3025_midterm"/>
+</resources>
